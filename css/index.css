@@ -7,6 +7,12 @@ html {
 section {
   padding-bottom: 80px;
 }
+a {
+  color: #2C2B26;
+}
+a:hover {
+  color: yellowgreen;
+}
 
 /** Typefaces **/
 h1 {
